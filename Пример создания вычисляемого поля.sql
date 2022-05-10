@@ -1,0 +1,1 @@
+ALTER TABLE Товар ADD Налог AS Цена*0.05 
